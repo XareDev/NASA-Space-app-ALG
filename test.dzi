@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image xmlns="http://schemas.microsoft.com/deepzoom/2008"
+       Format="jpeg"
+       Overlap="2"
+       TileSize="512">
+    <Size Height="3253" Width="3253"/>
+    <Sources>
+        <TileGroup Url="test_files/" />
+    </Sources>
+</Image>
